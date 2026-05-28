@@ -2,36 +2,36 @@
 
 This list is automatically generated using the [Hugo Themes Site Builder](https://github.com/gohugoio/hugoThemesSiteBuilder) data.
 
-Script last run: Wed May 27 06:00:01 PM UTC 2026
+Script last run: Thu May 28 06:00:01 PM UTC 2026
 
 | Repository | Stars |
 |------------|-------|
-| [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | 13576 |
-| [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) | 9432 |
-| [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) | 6383 |
+| [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | 13580 |
+| [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) | 9435 |
+| [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) | 6388 |
 | [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) | 4024 |
 | [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) | 3857 |
-| [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) | 3082 |
-| [google/docsy](https://github.com/google/docsy) | 2934 |
-| [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) | 2783 |
-| [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) | 2758 |
+| [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) | 3083 |
+| [google/docsy](https://github.com/google/docsy) | 2935 |
+| [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) | 2788 |
+| [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) | 2757 |
 | [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) | 2393 |
-| [gethyas/doks](https://github.com/gethyas/doks) | 2353 |
-| [imfing/hextra](https://github.com/imfing/hextra) | 2197 |
+| [gethyas/doks](https://github.com/gethyas/doks) | 2352 |
+| [imfing/hextra](https://github.com/imfing/hextra) | 2199 |
 | [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) | 2093 |
-| [jpanther/congo](https://github.com/jpanther/congo) | 1633 |
+| [jpanther/congo](https://github.com/jpanther/congo) | 1634 |
 | [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) | 1553 |
 | [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) | 1542 |
-| [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) | 1429 |
-| [athul/archie](https://github.com/athul/archie) | 1405 |
-| [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) | 1375 |
+| [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) | 1431 |
+| [athul/archie](https://github.com/athul/archie) | 1406 |
+| [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) | 1376 |
 | [hugo-toha/toha](https://github.com/hugo-toha/toha) | 1237 |
 | [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo) | 1230 |
 | [hugo-fixit/FixIt](https://github.com/hugo-fixit/FixIt) | 1108 |
 | [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) | 1076 |
 | [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) | 1072 |
 | [Vimux/mainroad](https://github.com/Vimux/mainroad) | 1046 |
-| [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane) | 971 |
+| [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane) | 972 |
 | [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) | 957 |
 | [kakawait/hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme) | 941 |
 | [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) | 929 |
@@ -49,19 +49,19 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [StefMa/hugo-fresh](https://github.com/StefMa/hugo-fresh) | 686 |
 | [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) | 679 |
 | [AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) | 667 |
-| [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) | 661 |
+| [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) | 662 |
 | [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) | 649 |
-| [spf13/hyde](https://github.com/spf13/hyde) | 624 |
+| [spf13/hyde](https://github.com/spf13/hyde) | 625 |
 | [joeroe/risotto](https://github.com/joeroe/risotto) | 606 |
 | [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) | 598 |
-| [g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) | 575 |
-| [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) | 571 |
+| [g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) | 577 |
+| [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) | 570 |
 | [joway/hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang) | 559 |
 | [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) | 555 |
 | [MunifTanjim/minimo](https://github.com/MunifTanjim/minimo) | 553 |
 | [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) | 545 |
-| [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) | 536 |
-| [vaga/hugo-theme-m10c](https://github.com/vaga/hugo-theme-m10c) | 529 |
+| [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) | 537 |
+| [vaga/hugo-theme-m10c](https://github.com/vaga/hugo-theme-m10c) | 528 |
 | [zerostaticthemes/hugo-serif-theme](https://github.com/zerostaticthemes/hugo-serif-theme) | 485 |
 | [jpanther/lynx](https://github.com/jpanther/lynx) | 463 |
 | [kishaningithub/hugo-creative-portfolio-theme](https://github.com/kishaningithub/hugo-creative-portfolio-theme) | 459 |
@@ -81,11 +81,11 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [cntrump/hugo-notepadium](https://github.com/cntrump/hugo-notepadium) | 346 |
 | [onweru/compose](https://github.com/onweru/compose) | 341 |
 | [zjedi/hugo-scroll](https://github.com/zjedi/hugo-scroll) | 338 |
+| [Yukuro/hugo-theme-shell](https://github.com/Yukuro/hugo-theme-shell) | 335 |
 | [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex) | 335 |
-| [Yukuro/hugo-theme-shell](https://github.com/Yukuro/hugo-theme-shell) | 334 |
 | [onweru/newsroom](https://github.com/onweru/newsroom) | 325 |
 | [D-Sketon/hugo-theme-reimu](https://github.com/D-Sketon/hugo-theme-reimu) | 325 |
-| [radity/raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme) | 320 |
+| [radity/raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme) | 321 |
 | [lukeorth/poison](https://github.com/lukeorth/poison) | 319 |
 | [willfaught/paige](https://github.com/willfaught/paige) | 318 |
 | [yoshiharuyamashita/blackburn](https://github.com/yoshiharuyamashita/blackburn) | 317 |
@@ -94,7 +94,7 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [ribice/kiss](https://github.com/ribice/kiss) | 305 |
 | [jpescador/hugo-future-imperfect](https://github.com/jpescador/hugo-future-imperfect) | 305 |
 | [zerostaticthemes/hugo-winston-theme](https://github.com/zerostaticthemes/hugo-winston-theme) | 304 |
-| [LukasJoswiak/etch](https://github.com/LukasJoswiak/etch) | 300 |
+| [LukasJoswiak/etch](https://github.com/LukasJoswiak/etch) | 301 |
 | [Ice-Hazymoon/hugo-theme-luna](https://github.com/Ice-Hazymoon/hugo-theme-luna) | 299 |
 | [hugo-next/hugo-theme-next](https://github.com/hugo-next/hugo-theme-next) | 297 |
 | [colorchestra/smol](https://github.com/colorchestra/smol) | 297 |
@@ -103,7 +103,7 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [zerostaticthemes/hugo-whisper-theme](https://github.com/zerostaticthemes/hugo-whisper-theme) | 273 |
 | [cowboysmall-tools/hugo-devresume-theme](https://github.com/cowboysmall-tools/hugo-devresume-theme) | 271 |
 | [shenoydotme/hugo-goa](https://github.com/shenoydotme/hugo-goa) | 266 |
-| [xiaoheiAh/hugo-theme-pure](https://github.com/xiaoheiAh/hugo-theme-pure) | 262 |
+| [xiaoheiAh/hugo-theme-pure](https://github.com/xiaoheiAh/hugo-theme-pure) | 263 |
 | [caressofsteel/hugo-story](https://github.com/caressofsteel/hugo-story) | 261 |
 | [aerohub/hugo-orbit-theme](https://github.com/aerohub/hugo-orbit-theme) | 255 |
 | [EmielH/tale-hugo](https://github.com/EmielH/tale-hugo) | 254 |
@@ -118,7 +118,7 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [StaticMania/roxo-hugo](https://github.com/StaticMania/roxo-hugo) | 228 |
 | [ineesalmeida/almeida-cv](https://github.com/ineesalmeida/almeida-cv) | 226 |
 | [kimcc/hugo-theme-noteworthy](https://github.com/kimcc/hugo-theme-noteworthy) | 224 |
-| [zetxek/adritian-free-hugo-theme](https://github.com/zetxek/adritian-free-hugo-theme) | 217 |
+| [zetxek/adritian-free-hugo-theme](https://github.com/zetxek/adritian-free-hugo-theme) | 218 |
 | [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) | 215 |
 | [nurlansu/hugo-sustain](https://github.com/nurlansu/hugo-sustain) | 214 |
 | [hadisinaee/avicenna](https://github.com/hadisinaee/avicenna) | 210 |
@@ -131,7 +131,7 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [HugoBlox/theme-documentation](https://github.com/HugoBlox/theme-documentation) | 195 |
 | [saey55/hugo-elate-theme](https://github.com/saey55/hugo-elate-theme) | 193 |
 | [zzossig/hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) | 191 |
-| [Sped0n/bridget](https://github.com/Sped0n/bridget) | 191 |
+| [Sped0n/bridget](https://github.com/Sped0n/bridget) | 190 |
 | [azmelanar/hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll) | 188 |
 | [gethinode/hinode](https://github.com/gethinode/hinode) | 187 |
 | [matsuyoshi30/harbor](https://github.com/matsuyoshi30/harbor) | 183 |
@@ -242,9 +242,9 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [it-gro/hugo-theme-w3css-basic](https://github.com/it-gro/hugo-theme-w3css-basic) | 72 |
 | [spech66/bootstrap-bp-hugo-startpage](https://github.com/spech66/bootstrap-bp-hugo-startpage) | 71 |
 | [alexandrevicenzi/soho](https://github.com/alexandrevicenzi/soho) | 71 |
+| [canhtran/maverick](https://github.com/canhtran/maverick) | 69 |
 | [shaform/hugo-theme-den](https://github.com/shaform/hugo-theme-den) | 68 |
 | [salatine/neopost](https://github.com/salatine/neopost) | 68 |
-| [canhtran/maverick](https://github.com/canhtran/maverick) | 68 |
 | [ololiuhqui/magnolia-free-hugo-theme](https://github.com/ololiuhqui/magnolia-free-hugo-theme) | 67 |
 | [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) | 67 |
 | [mrhelloboy/seven](https://github.com/mrhelloboy/seven) | 66 |
@@ -299,11 +299,11 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [half-duplex/hugo-arcana](https://github.com/half-duplex/hugo-arcana) | 48 |
 | [guangmean/Niello](https://github.com/guangmean/Niello) | 48 |
 | [GrantBirki/dario](https://github.com/GrantBirki/dario) | 46 |
+| [danapixels/digio-theme](https://github.com/danapixels/digio-theme) | 46 |
 | [jweslley/hugo-conference](https://github.com/jweslley/hugo-conference) | 45 |
 | [JingWangTW/dark-theme-editor](https://github.com/JingWangTW/dark-theme-editor) | 45 |
 | [heksagonnet/piko](https://github.com/heksagonnet/piko) | 45 |
 | [fourtyone11/origin-hugo-theme](https://github.com/fourtyone11/origin-hugo-theme) | 45 |
-| [danapixels/digio-theme](https://github.com/danapixels/digio-theme) | 45 |
 | [jnjosh/internet-weblog](https://github.com/jnjosh/internet-weblog) | 44 |
 | [jeblister/bulma](https://github.com/jeblister/bulma) | 44 |
 | [balaramadurai/hugo-travelify-theme](https://github.com/balaramadurai/hugo-travelify-theme) | 44 |
@@ -346,7 +346,6 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [weastur/hugo-texify2](https://github.com/weastur/hugo-texify2) | 32 |
 | [writeonlycode/hugo-up-business](https://github.com/writeonlycode/hugo-up-business) | 31 |
 | [uicardiodev/hugo-lime](https://github.com/uicardiodev/hugo-lime) | 31 |
-| [surajmandalcell/potato-dark](https://github.com/surajmandalcell/potato-dark) | 31 |
 | [plopcas/papaya](https://github.com/plopcas/papaya) | 31 |
 | [hugo-porto/theme](https://github.com/hugo-porto/theme) | 31 |
 | [hotjuicew/hugo-JuiceBar](https://github.com/hotjuicew/hugo-JuiceBar) | 31 |
@@ -354,6 +353,7 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [antedoro/arberia](https://github.com/antedoro/arberia) | 31 |
 | [adityatelange/hugo-index](https://github.com/adityatelange/hugo-index) | 31 |
 | [tosi29/inkblotty](https://github.com/tosi29/inkblotty) | 30 |
+| [surajmandalcell/potato-dark](https://github.com/surajmandalcell/potato-dark) | 30 |
 | [letItCurl/minimal_marketing](https://github.com/letItCurl/minimal_marketing) | 30 |
 | [isaksolheim/cyberscape](https://github.com/isaksolheim/cyberscape) | 30 |
 | [felicianotech/hugo-theme-lean-launch-page](https://github.com/felicianotech/hugo-theme-lean-launch-page) | 30 |
@@ -405,13 +405,13 @@ Script last run: Wed May 27 06:00:01 PM UTC 2026
 | [ijsucceed/onepress](https://github.com/ijsucceed/onepress) | 21 |
 | [EmielH/stip-hugo](https://github.com/EmielH/stip-hugo) | 21 |
 | [tnwhitwell/hugo-startpage-theme](https://github.com/tnwhitwell/hugo-startpage-theme) | 20 |
+| [ntk148v/hugo-cuisine-book](https://github.com/ntk148v/hugo-cuisine-book) | 20 |
 | [meimakes/loficode-hugo-theme](https://github.com/meimakes/loficode-hugo-theme) | 20 |
 | [mcrwfrd/hugo-frances-theme](https://github.com/mcrwfrd/hugo-frances-theme) | 20 |
 | [cristianmarint/sicily-hugo-theme](https://github.com/cristianmarint/sicily-hugo-theme) | 20 |
 | [wayjam/hugo-theme-mixedpaper](https://github.com/wayjam/hugo-theme-mixedpaper) | 19 |
 | [spech66/materialize-bp-hugo-theme](https://github.com/spech66/materialize-bp-hugo-theme) | 19 |
 | [rafed/BlogRa](https://github.com/rafed/BlogRa) | 19 |
-| [ntk148v/hugo-cuisine-book](https://github.com/ntk148v/hugo-cuisine-book) | 19 |
 | [NormandErwan/Blogpaper](https://github.com/NormandErwan/Blogpaper) | 19 |
 | [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight) | 19 |
 | [khitezza/vortisil](https://github.com/khitezza/vortisil) | 19 |
